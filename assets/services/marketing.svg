@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 80" style="enable-background:new 0 0 64 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#777;}
+</style>
+<title>Financial Report</title>
+<g>
+	<path class="st0" d="M59,60V16H49v44h-1V32H38v28h-1V32H27v28h-1V38H16v22h-1V46H5v14H2v2h60v-2H59z M7,60V48h6v12H7z M18,60V40h6
+		v20H18z M29,60V34h6v26H29z M40,60V34h6v26H40z M51,60V18h6v42H51z"/>
+	<polygon class="st0" points="18.4,30 32.4,30 52,10.4 52,14 54,14 54,7 47,7 47,9 50.6,9 31.6,28 17.6,28 2.3,43.3 3.7,44.7 	"/>
+	<path class="st0" d="M26,18c-0.5,0-0.9-0.5-0.9-1h-2c0,1.2,0.7,2.3,1.9,2.8V21h2v-1.2c1.1-0.5,1.9-1.6,1.9-2.8c0-1.6-1.2-3-2.9-3
+		c-0.6,0.1-1.1-0.3-1.1-0.9c-0.1-0.6,0.3-1.1,0.9-1.1c0.6-0.1,1.1,0.3,1.1,0.9c0,0,0,0.1,0,0.1h2c0-1.2-0.7-2.3-1.9-2.8V9h-2v1.2
+		c-1.1,0.5-1.9,1.6-1.9,2.8c0,1.6,1.2,3,2.9,3c0.6,0.1,0.9,0.6,0.9,1.1C26.8,17.6,26.4,17.9,26,18z"/>
+	<path class="st0" d="M26,24c5,0,9-4,9-9s-4-9-9-9s-9,4-9,9C17,20,21,24,26,24z M26,8c3.9,0,7,3.1,7,7s-3.1,7-7,7s-7-3.1-7-7
+		C19,11.1,22.1,8,26,8z"/>
+	<rect x="30" y="14" class="st0" width="2" height="2"/>
+	<rect x="20" y="14" class="st0" width="2" height="2"/>
+	<rect x="6" y="4" class="st0" width="2" height="2"/>
+	<rect x="10" y="4" class="st0" width="8" height="2"/>
+	<rect x="6" y="8" class="st0" width="8" height="2"/>
+</g>
+</svg>
